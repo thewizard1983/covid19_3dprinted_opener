@@ -11,3 +11,4 @@ You can modify it in three ways:
 2. Wrap the tool with alluminium foil; the tool will become completelly conductive.
 3. Print it with conductive filament (usually based on graphite).
 
+![The tool](https://github.com/thewizard1983/covid19_3dprinted_opener/blob/master/tool.png)
