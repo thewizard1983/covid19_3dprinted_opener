@@ -11,4 +11,7 @@ You can modify it in three ways:
 2. Wrap the tool with alluminium foil; the tool will become completelly conductive.
 3. Print it with conductive filament (usually based on graphite).
 
+It is a very simple shape, flat and easy to print. 
+With PLA and a non professional printer, you can finish it in half an hour.
+
 ![The tool](https://github.com/thewizard1983/covid19_3dprinted_opener/blob/master/tool.png)
